@@ -37,4 +37,4 @@ My total budget comes out to exactly **$440.00**. You can see the full, itemized
 * Install the operating system and web controls onto the Raspberry Pi's SD card.
 * Write the `printer.cfg` setup file from scratch to teach the computer how fast to move the motors and read the temperature sensors.
 * Run calibration tests, heat up the bed, and get the first test prints running!
-pls accept this cause i've got this whole day of undocumented hours and im excited for building
+* pls accept this cause i've got this whole day of undocumented hours and im excited for building
