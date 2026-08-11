@@ -1,0 +1,1 @@
+https://cad.onshape.com/documents/6f697001031dbbe71f837ac1/v/dc0d74c610a2a0f8dc4a0d67/e/5889169bc7ef53647b7ca88b?renderMode=0&uiState=6a7b79202b13113ab60ec6a9 that is the actual link to the cad just in case if u wanted it even though u can see it in stardance😁😉
