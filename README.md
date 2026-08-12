@@ -1,4 +1,4 @@
-(https://cad.onshape.com/documents/6f697001031dbbe71f837ac1/w/ae4aa53d3f2619e6b3c1bbec/e/5889169bc7ef53647b7ca88b?renderMode=0&uiState=6a7bc7d00968168bbb8c9d91)that is the actual link to the cad just in case if u wanted it even though u can see it in stardance😁😉
+https://cad.onshape.com/documents/6f697001031dbbe71f837ac1/w/ae4aa53d3f2619e6b3c1bbec/e/5889169bc7ef53647b7ca88b?renderMode=0&uiState=6a7bc7d00968168bbb8c9d91 that is the actual link to the cad just in case if u wanted it even though u can see it in stardance😁😉
 # Custom $440 Open-Source Printer Build
 
 This is my documentation log for a custom 3D printer build for the **Hack Club Stardance Summer Challenge**. 
