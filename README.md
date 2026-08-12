@@ -10,6 +10,7 @@ I am building a high-performance 3D printer entirely from scratch out of individ
 * **The Blueprint:** The cad software that i used was onshape which is a free on browser cad like tinkercad.                     
 * **The Frame:** Instead of custom brand-name plastic joints, I’m using standard 2040 and 2020 aluminum extrusions bolted together with flat 90-degree metal corner plates and loose screws.
 * **The Brains:** The printer runs on a dual-board system. I'm using a **BIGTREETECH SKR Mini E3 V3** motherboard to control the physical motors, and hooking it up to a **Raspberry Pi 4 (2GB)** running Linux and Klipper so I can control the printer over my local network.
+* **The color** I just made it goated(baaa)... that might be a sheep.
 
 ## Parts, Budget, and shipping+tax ($465)
 My total budget comes out to about(would be exact but shipping and tax varies😒) **$465.00**. You can see the full, itemized spreadsheet tracking every single motor link, rail cost, and screw box directly inside the [`bom.csv`](./bom.csv) file in this repository.
