@@ -1,18 +1,18 @@
-﻿Component_ID,Category,Exact_Individual_Component,Qty,Manufacturer/Vendor,Unit_Cost,Total_Cost,Sourcing_URL,Description
-HD-01,Frame,Aluminum 2040 V-Slot Extrusions (500mm),4,Zyltech / AliExpress,6.00,24.00,https://aliexpress.com vertical frame pillars and baseline support bars.
-HD-02,Frame,Aluminum 2020 V-Slot Extrusions (450mm),2,Zyltech / AliExpress,4.50,9.00,https://aliexpress.com horizontal crossbars and structural reinforcement braces.
-HD-03,Hardware,Anodized Aluminum 90-Degree Joint Plates,12,Generic / Amazon,1.25,15.00,https://amazon.com metal structural brackets to bolt the raw aluminum rails together.
-HD-04,Hardware,Prusa i3 Metal Gantry & Y-Carriage Plate Kit,1,Fysetc / AliExpress,16.50,16.50,https://aliexpress.com steel and aluminum plate set to mount wheels and toolheads.
-HD-05,Motion,Hardened Steel Linear Smooth Rods (8mm x 450mm),6,Generic / AliExpress,6.00,36.00,https://aliexpress.com smooth alignment shafts for X Y and Z axes movement.
-HD-06,Motion,LM8UU Linear Motion Ball Bearings,12,Uxcell / Amazon,1.10,13.20,https://amazon.com slider ball bearing blocks that slide along the smooth rods.
-HD-07,Motion,NEMA 17 Stepper Motors (40mm 1.5A),4,Stepperonline / Amazon,11.50,46.00,https://amazon.com raw motors to drive the physical motion axes independently.
-HD-08,Electronics,BIGTREETECH SKR Mini E3 V3 Mainboard,1,BigTreeTech / Amazon,35.00,35.00,https://amazon.com silent open-source motherboard managing Klipper kinematics drivers.
-HD-09,Electronics,Raspberry Pi 4 Model B (2GB RAM Single Board PC),1,Raspberry Pi / Amazon,45.00,45.00,https://amazon.com Linux host running Klipper web interface and printer operating system.
-HD-10,Electronics,Official Pi 4 USB-C Power Supply & 32GB SD Card,1,SanDisk / Amazon,18.00,18.00,https://amazon.com boot media storage and power delivery for the Linux host compute board.
-HD-11,Electronics,Mean Well LRS-350-24 Power Supply (24V 14.6A),1,Mean Well / Amazon,32.50,32.50,https://amazon.com industrial switching power supply for main system electronics.
-HD-12,Toolhead,Creality Sprite Pro Direct Drive Extruder,1,Creality / Amazon,58.00,58.00,https://amazon.com 300C dual-gear integrated hotend and extruder toolhead system.
-HD-13,Toolhead,BMG Dual-Drive Extruder Feed Gear Upgrade,1,Trianglelab / Amazon,8.00,8.00,https://amazon.com dual drive gearing to ensure slip-free printing grip on raw filament threads.
-HD-14,Build Plate,310x310mm Aluminum Heated Bed PCB (24V),1,Generic / AliExpress,24.00,24.00,https://aliexpress.com bare aluminum heat plate matrix including basic thermal cabling.
-HD-15,Build Plate,Double-Sided Textured PEI Spring Steel Sheet,1,BIQU / Amazon,19.90,19.90,https://amazon.com flexible magnetic print bed surface sheet.
-HD-16,Fasteners,Assorted M3 M4 M5 Hex Screw & Drop-in T-Nut Box,1,iExcell / Amazon,22.00,22.00,https://amazon.com multi-pack sorting box of loose fasteners for system assembly.
-HD-17,Material,ELEGOO Neat PLA Filament Spool (1kg Black),1,ELEGOO / Amazon,18.00,18.00,https://amazon.com diagnostic material for printing core geometry validation models.
+Component_ID,Category,Exact_Individual_Component,Qty,Manufacturer/Vendor,Unit_Cost,Total_Cost,Sourcing_URL,Description
+HD-01,Frame,Aluminum 2040 V-Slot Extrusions (500mm),4,Zyltech / AliExpress,6.00,24.00,https://aliexpress.com,Raw vertical frame pillars and baseline support bars.
+HD-02,Frame,Aluminum 2020 V-Slot Extrusions (450mm),2,Zyltech / AliExpress,4.50,9.00,https://aliexpress.com,Top horizontal crossbars and structural reinforcement braces.
+HD-03,Hardware,Anodized Aluminum 90-Degree Joint Plates,12,Generic / Amazon,1.25,15.00,https://amazon.com,Thick metal structural brackets to bolt the raw aluminum rails together.
+HD-04,Hardware,Prusa i3 Metal Gantry & Y-Carriage Plate Kit,1,Fysetc / AliExpress,16.50,16.50,https://aliexpress.com,Laser-cut steel and aluminum plate set to mount wheels and toolheads.
+HD-05,Motion,Hardened Steel Linear Smooth Rods (8mm x 450mm),6,Generic / AliExpress,6.00,36.00,https://aliexpress.com,Precision smooth alignment shafts for X Y and Z axes movement.
+HD-06,Motion,LM8UU Linear Motion Ball Bearings,12,Uxcell / Amazon,1.10,13.20,https://amazon.com,Inner slider ball bearing blocks that slide along the smooth rods.
+HD-07,Motion,NEMA 17 Stepper Motors (40mm 1.5A),4,Stepperonline / Amazon,11.50,46.00,https://amazon.com,High-torque raw motors to drive the physical motion axes independently.
+HD-08,Electronics,BIGTREETECH SKR Mini E3 V3 Mainboard,1,BigTreeTech / Amazon,35.00,35.00,https://amazon.com,32-bit silent open-source motherboard managing Klipper kinematics drivers.
+HD-09,Electronics,Raspberry Pi 4 Model B (2GB RAM Single Board PC),1,Raspberry Pi / Amazon,45.00,45.00,https://amazon.com,Micro-computing Linux host running Klipper web interface and printer operating system.
+HD-10,Electronics,Official Pi 4 USB-C Power Supply & 32GB SD Card,1,SanDisk / Amazon,18.00,18.00,https://amazon.com,Essential boot media storage and power delivery for the Linux host compute board.
+HD-11,Electronics,Mean Well LRS-350-24 Power Supply (24V 14.6A),1,Mean Well / Amazon,32.50,32.50,https://amazon.com,Enclosed industrial switching power supply for main system electronics.
+HD-12,Toolhead,Creality Sprite Pro Direct Drive Extruder,1,Creality / Amazon,58.00,58.00,https://amazon.com,All-metal 300C dual-gear integrated hotend and extruder toolhead system.
+HD-13,Toolhead,BMG Dual-Drive Extruder Feed Gear Upgrade,1,Trianglelab / Amazon,8.00,8.00,https://amazon.com,High-precision dual drive gearing to ensure slip-free printing grip on raw filament threads.
+HD-14,Build Plate,310x310mm Aluminum Heated Bed PCB (24V),1,Generic / AliExpress,24.00,24.00,https://aliexpress.com,Raw bare aluminum heat plate matrix including basic thermal cabling.
+HD-15,Build Plate,Double-Sided Textured PEI Spring Steel Sheet,1,BIQU / Amazon,19.90,19.90,https://amazon.com,Removable flexible magnetic print bed surface sheet.
+HD-16,Fasteners,Assorted M3 M4 M5 Hex Screw & Drop-in T-Nut Box,1,iExcell / Amazon,22.00,22.00,https://amazon.com,Industrial multi-pack sorting box of loose fasteners for system assembly.
+HD-17,Material,ELEGOO Neat PLA Filament Spool (1kg Black),1,ELEGOO / Amazon,18.00,18.00,https://amazon.com,Initial diagnostic material for printing core geometry validation models.
