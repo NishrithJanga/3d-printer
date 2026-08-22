@@ -1,0 +1,23 @@
+```mermaid
+graph TD
+    %% Power Infrastructure
+    PSU[Mean Well 24V Power Supply] -->|Raw 24V Power| Mainboard[BTT SKR Mini E3 V3 Mainboard]
+
+    %% Low-Level Motor Drives
+    Mainboard -->|X-Axis Drive Pin| MotorX[X-Axis NEMA 17 Motor]
+    Mainboard -->|Y-Axis Drive Pin| MotorY[Y-Axis NEMA 17 Motor]
+    Mainboard -->|Z-Axis Drive Pin| MotorZ[Z-Axis NEMA 17 Motor]
+    Mainboard -->|E-Axis Drive Pin| MotorE[Creality Sprite Motor]
+
+    %% Heated Matrix Arrays
+    Mainboard -->|Bed Power Rail| BedHeat[310x310mm Heated Bed]
+    Mainboard -->|Heater Cartridge Pin| Hotend[300C Hotend Heater]
+
+    %% Diagnostic Sensors
+    BedTherm[Bed Thermistor] -->|Analog Temperature| Mainboard
+    HotendTherm[Hotend Thermistor] -->|Analog Temperature| Mainboard
+
+    %% Linux OS Computation Host
+    RaspberryPi[Raspberry Pi 4 Host Computer] <-->|USB Serial Control Link| Mainboard
+    PowerPlug[USB-C Power supply] -->|5V Logic Power| RaspberryPi
+```
